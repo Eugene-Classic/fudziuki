@@ -1,2 +1,3 @@
 # fudziuki
 fudziuki
+def function ()
